@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on . Machine learning for medical robotics and wireless communication for AVs
+- 🔭 I’m currently working on. Machine learning for medical robotics and wireless communication for AVs
 - 🌱 I’m currently learning ... reinforcement learning for multi-object detection
-- 👯 I’m looking to collaborate on -- reinforcement learning
+- 👯 I’m looking to collaborate on -- Machine Learning for Communications
 - 💬 Ask me about ... reinforcement learning
 - 📫 How to reach me: ... amirulkuet@gmail.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirul2k9)](https://github.com/amirul2k9/github-readme-stats)
+
 
 <!--
 **amirul2k9/amirul2k9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
